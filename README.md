@@ -2,7 +2,7 @@
 
 <img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" alt="Logo" width="400">
 
-Tickets is a Discord ticket bot that modernizes the way server tickets are handled through use of newly announced Button API endpoints.
+Tickets is a Discord ticket bot that modernizes the way server tickets are handled. Tickets functions through the use of newly announced Button API endpoints.
 
 ![Python Version](https://img.shields.io/badge/python-v3.8.8-brightgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/ayushgun/tickets)
 
