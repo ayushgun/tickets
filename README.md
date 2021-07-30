@@ -4,7 +4,7 @@
 
 Tickets is a Discord ticket bot that modernizes the way server tickets are handled through use of newly announced Button API endpoints.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ayushgun/tickets?logo=github) ![GitHub repo size](https://img.shields.io/github/repo-size/ayushgun/tickets?logo=github)
+![Python Version](https://img.shields.io/badge/python-v3.8.8-brightgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/ayushgun/tickets)
 
 Tickets is highly customizable and modifiable. It is a bot that allows servers to manage tickets that advance user-based cryptocurrency payments. Currently, Bitcoin, Ethereum, and Litecoin are supported as payment methods.
 
