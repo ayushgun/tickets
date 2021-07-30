@@ -8,7 +8,7 @@ Tickets is a Discord ticket bot that modernizes the way server tickets are handl
 
 Tickets is highly customizable and modifiable. It is a bot that allows servers to manage tickets that advance user-based cryptocurrency payments. Currently, Bitcoin, Ethereum, and Litecoin are supported as payment methods.
 
-Although there is no official documentation of this bot, each command and config area includes docstrings that explain the purpose and intent of the command. Additionally, a config area has been created at the top of the `main.py` file. 
+Although there is no official documentation of this bot, each command includes a docstrings that explain the purpose and intent of the command. Additionally, a config area has been created at the top of the `main.py` file. 
 
 - [tickets](#tickets)
   - [Quick Start](#installation)
