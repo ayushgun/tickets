@@ -19,7 +19,7 @@ Although there is no official documentation of this bot, each command includes a
 
 # Installation
 
-1. Create a Discord Bot and copy its token, then djust the variables located underneath `# Bot Config`, `# Role Config`, and `# Ticket Config` in **main.py**
+1. Create a Discord Bot and copy its token, then adjust the variables located underneath `# Bot Config`, `# Role Config`, and `# Ticket Config` in **main.py**
 
 2. Adjust the emote IDs for the Payment Methods located under `# Ticket Config` in **main.py**
 
